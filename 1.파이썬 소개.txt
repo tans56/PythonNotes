@@ -16,4 +16,7 @@
         - set (집합)
 
     5) Mappings
-        - dict (key-value store 방식을 가지고 자료를 저장하는 구조)             
+        - dict (key-value store 방식을 가지고 자료를 저장하는 구조)        
+
+2. 변수
+    1) 
